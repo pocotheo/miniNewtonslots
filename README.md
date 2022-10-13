@@ -1,16 +1,13 @@
 # newton
 
-A new Flutter project.
+Newton Slots - simplea app page
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Fetch list of group tournaments and store it
+2. Build and display flutter page based on the groups list (if you can’t find the source for any visual
+element – eg. text, image - use mock data)
+3. Update list of group tournaments based on websocket update events (implement reactive state
+based on Providers package)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
