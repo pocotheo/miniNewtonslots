@@ -1,6 +1,6 @@
 # newton
 
-Newton Slots - simplea app page
+Newton Slots - Simple App Page
 
 ## Getting Started
 
